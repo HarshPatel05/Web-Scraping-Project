@@ -4,7 +4,7 @@ import csv
 
 
 # Open CSV file in write mode, 'w' means the file is in write mode
-csvfile = open('IMBD_Movie_Ratings.csv', 'w')
+csvfile = open('IMDb_Movie_Ratings.csv', 'w')
 writer = csv.writer(csvfile)
 
 # Writing column headers
@@ -59,7 +59,7 @@ try:
     
     for movie in movies:
         
-        # To understand the next few lines of code, be sure you have the source code directly from the website open up or open the imbd_movieData.txt file and use 'Ctrl+f' to search the following tags or class to get an idea of what are dealing with or how we are dealing with. You do have to uncomment the code that lets you make a txt file that contains the source code and movie data once you uncomment them just run and you will see them.
+        # To understand the next few lines of code, be sure you have the source code directly from the website open up or open the imdb_movieData.txt file and use 'Ctrl+f' to search the following tags or class to get an idea of what are dealing with or how we are dealing with. You do have to uncomment the code that lets you make a txt file that contains the source code and movie data once you uncomment them just run and you will see them.
 
         
         # fetching the movie name from the h3 tag and also giving the find method the class name(if you don't have the class name then it is fine it will just give you the data of the first tag it finds). get_text converts the data into text so we can strip it and split it since the movie name and rank is in 1 string. Ex: 1. The Shawshank Redemption, so we split at '.' to get rank and movie seperately. To get the movie we get the index 1.
