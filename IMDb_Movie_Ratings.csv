@@ -1,0 +1,502 @@
+Rank,Movie,Year,IMDB Rating,No. of Ratings
+
+1,The Shawshank Redemption,1994,9.3,2.9M
+
+2,The Godfather,1972,9.2,2M
+
+3,The Dark Knight,2008,9.0,2.9M
+
+4,The Godfather Part II,1974,9.0,1.4M
+
+5,12 Angry Men,1957,9.0,858K
+
+6,Schindler's List,1993,9.0,1.4M
+
+7,The Lord of the Rings: The Return of the King,2003,9.0,2M
+
+8,Pulp Fiction,1994,8.9,2.2M
+
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2M
+
+10,"The Good, the Bad and the Ugly",1966,8.8,807K
+
+11,Dune: Part Two,2024,8.9,195K
+
+12,Forrest Gump,1994,8.8,2.2M
+
+13,The Lord of the Rings: The Two Towers,2002,8.8,1.8M
+
+14,Fight Club,1999,8.8,2.3M
+
+15,Inception,2010,8.8,2.5M
+
+16,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1.4M
+
+17,The Matrix,1999,8.7,2M
+
+18,Goodfellas,1990,8.7,1.2M
+
+19,One Flew Over the Cuckoo's Nest,1975,8.7,1.1M
+
+20,Se7en,1995,8.6,1.8M
+
+21,It's a Wonderful Life,1946,8.6,497K
+
+22,Interstellar,2014,8.7,2.1M
+
+23,Seven Samurai,1954,8.6,365K
+
+24,The Silence of the Lambs,1991,8.6,1.5M
+
+25,Saving Private Ryan,1998,8.6,1.5M
+
+26,City of God,2002,8.6,797K
+
+27,Life Is Beautiful,1997,8.6,739K
+
+28,The Green Mile,1999,8.6,1.4M
+
+29,Terminator 2: Judgment Day,1991,8.6,1.2M
+
+30,Star Wars: Episode IV - A New Hope,1977,8.6,1.4M
+
+31,Back to the Future,1985,8.5,1.3M
+
+32,Spirited Away,2001,8.6,841K
+
+33,The Pianist,2002,8.5,905K
+
+34,Spider-Man: Across the Spider-Verse,2023,8.6,355K
+
+35,Parasite,2019,8.5,945K
+
+36,Psycho,1960,8.5,715K
+
+37,Gladiator,2000,8.5,1.6M
+
+38,The Lion King,1994,8.5,1.1M
+
+39,Léon: The Professional,1994,8.5,1.2M
+
+40,The Departed,2006,8.5,1.4M
+
+41,American History X,1998,8.5,1.2M
+
+42,Whiplash,2014,8.5,978K
+
+43,The Prestige,2006,8.5,1.4M
+
+44,Grave of the Fireflies,1988,8.5,307K
+
+45,Harakiri,1962,8.6,68K
+
+46,The Usual Suspects,1995,8.5,1.1M
+
+47,Casablanca,1942,8.5,603K
+
+48,The Intouchables,2011,8.5,922K
+
+49,Cinema Paradiso,1988,8.5,281K
+
+50,Modern Times,1936,8.5,258K
+
+51,Rear Window,1954,8.5,520K
+
+52,Once Upon a Time in the West,1968,8.5,348K
+
+53,Alien,1979,8.5,944K
+
+54,12th Fail,2023,9.1,104K
+
+55,City Lights,1931,8.5,195K
+
+56,Apocalypse Now,1979,8.4,706K
+
+57,Django Unchained,2012,8.5,1.7M
+
+58,Memento,2000,8.4,1.3M
+
+59,WALL·E,2008,8.4,1.2M
+
+60,Raiders of the Lost Ark,1981,8.4,1M
+
+61,The Lives of Others,2006,8.4,408K
+
+62,Sunset Blvd.,1950,8.4,235K
+
+63,Paths of Glory,1957,8.4,211K
+
+64,Avengers: Infinity War,2018,8.4,1.2M
+
+65,Spider-Man: Into the Spider-Verse,2018,8.4,663K
+
+66,The Shining,1980,8.4,1.1M
+
+67,Witness for the Prosecution,1957,8.4,137K
+
+68,The Great Dictator,1940,8.4,236K
+
+69,Aliens,1986,8.4,759K
+
+70,Inglourious Basterds,2009,8.4,1.6M
+
+71,The Dark Knight Rises,2012,8.4,1.8M
+
+72,Dr,1964,8.4,516K
+
+73,American Beauty,1999,8.3,1.2M
+
+74,Oldboy,2003,8.3,631K
+
+75,Coco,2017,8.4,584K
+
+76,Amadeus,1984,8.4,425K
+
+77,Toy Story,1995,8.3,1.1M
+
+78,The Boat,1981,8.4,263K
+
+79,Braveheart,1995,8.3,1.1M
+
+80,Avengers: Endgame,2019,8.4,1.3M
+
+81,Joker,2019,8.4,1.5M
+
+82,Princess Mononoke,1997,8.3,430K
+
+83,Good Will Hunting,1997,8.3,1.1M
+
+84,Your Name.,2016,8.4,316K
+
+85,Once Upon a Time in America,1984,8.3,376K
+
+86,Oppenheimer,2023,8.4,672K
+
+87,High and Low,1963,8.4,52K
+
+88,3 Idiots,2009,8.4,431K
+
+89,Singin' in the Rain,1952,8.3,259K
+
+90,Capernaum,2018,8.4,104K
+
+91,Requiem for a Dream,2000,8.3,894K
+
+92,Come and See,1985,8.4,96K
+
+93,Toy Story 3,2010,8.3,888K
+
+94,Star Wars: Episode VI - Return of the Jedi,1983,8.3,1.1M
+
+95,Eternal Sunshine of the Spotless Mind,2004,8.3,1.1M
+
+96,The Hunt,2012,8.3,361K
+
+97,2001: A Space Odyssey,1968,8.3,715K
+
+98,Reservoir Dogs,1992,8.3,1.1M
+
+99,Ikiru,1952,8.3,87K
+
+100,Lawrence of Arabia,1962,8.3,312K
+
+101,The Apartment,1960,8.3,195K
+
+102,North by Northwest,1959,8.3,345K
+
+103,Citizen Kane,1941,8.3,464K
+
+104,M,1931,8.3,168K
+
+105,Vertigo,1958,8.3,425K
+
+106,Double Indemnity,1944,8.3,167K
+
+107,Incendies,2010,8.3,197K
+
+108,Scarface,1983,8.3,910K
+
+109,Amélie,2001,8.3,791K
+
+110,Full Metal Jacket,1987,8.3,786K
+
+111,A Clockwork Orange,1971,8.3,877K
+
+112,Heat,1995,8.3,715K
+
+113,Up,2009,8.3,1.1M
+
+114,To Kill a Mockingbird,1962,8.3,331K
+
+115,The Sting,1973,8.3,278K
+
+116,A Separation,2011,8.3,257K
+
+117,Indiana Jones and the Last Crusade,1989,8.2,807K
+
+118,Die Hard,1988,8.2,941K
+
+119,Metropolis,1927,8.3,185K
+
+120,Like Stars on Earth,2007,8.3,206K
+
+121,Hamilton,2020,8.3,112K
+
+122,Snatch,2000,8.2,905K
+
+123,L.A,1997,8.2,615K
+
+124,Bicycle Thieves,1948,8.3,174K
+
+125,1917,2019,8.2,668K
+
+126,Taxi Driver,1976,8.2,914K
+
+127,Downfall,2004,8.2,373K
+
+128,Dangal,2016,8.3,209K
+
+129,For a Few Dollars More,1965,8.2,273K
+
+130,Batman Begins,2005,8.2,1.6M
+
+131,The Wolf of Wall Street,2013,8.2,1.6M
+
+132,Some Like It Hot,1959,8.2,282K
+
+133,The Kid,1921,8.2,134K
+
+134,Green Book,2018,8.2,562K
+
+135,The Father,2020,8.2,190K
+
+136,Top Gun: Maverick,2022,8.2,682K
+
+137,Judgment at Nuremberg,1961,8.3,85K
+
+138,All About Eve,1950,8.2,138K
+
+139,The Truman Show,1998,8.2,1.2M
+
+140,There Will Be Blood,2007,8.2,637K
+
+141,Shutter Island,2010,8.2,1.4M
+
+142,Casino,1995,8.2,560K
+
+143,Ran,1985,8.2,135K
+
+144,Jurassic Park,1993,8.2,1.1M
+
+145,The Sixth Sense,1999,8.2,1M
+
+146,Pan's Labyrinth,2006,8.2,700K
+
+147,Unforgiven,1992,8.2,434K
+
+148,A Beautiful Mind,2001,8.2,982K
+
+149,No Country for Old Men,2007,8.2,1.1M
+
+150,The Thing,1982,8.2,463K
+
+151,The Treasure of the Sierra Madre,1948,8.2,132K
+
+152,Kill Bill: Vol,2003,8.2,1.2M
+
+153,Yojimbo,1961,8.2,131K
+
+154,Monty Python and the Holy Grail,1975,8.2,568K
+
+155,The Great Escape,1963,8.2,258K
+
+156,Finding Nemo,2003,8.2,1.1M
+
+157,Rashomon,1950,8.2,179K
+
+158,Howl's Moving Castle,2004,8.2,444K
+
+159,Prisoners,2013,8.1,801K
+
+160,The Elephant Man,1980,8.2,257K
+
+161,Chinatown,1974,8.1,348K
+
+162,Dial M for Murder,1954,8.2,188K
+
+163,Gone with the Wind,1939,8.2,333K
+
+164,V for Vendetta,2005,8.2,1.2M
+
+165,"Lock, Stock and Two Smoking Barrels",1998,8.1,613K
+
+166,The Secret in Their Eyes,2009,8.2,221K
+
+167,Raging Bull,1980,8.1,378K
+
+168,Inside Out,2015,8.1,779K
+
+169,"Three Billboards Outside Ebbing, Missouri",2017,8.1,551K
+
+170,Trainspotting,1996,8.1,722K
+
+171,The Bridge on the River Kwai,1957,8.1,232K
+
+172,Spider-Man: No Way Home,2021,8.2,869K
+
+173,Fargo,1996,8.1,722K
+
+174,Klaus,2019,8.2,188K
+
+175,Warrior,2011,8.1,496K
+
+176,Catch Me If You Can,2002,8.1,1.1M
+
+177,Godzilla Minus One,2023,8.3,45K
+
+178,Gran Torino,2008,8.1,812K
+
+179,My Neighbor Totoro,1988,8.1,377K
+
+180,Million Dollar Baby,2004,8.1,719K
+
+181,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,942K
+
+182,Children of Heaven,1997,8.2,80K
+
+183,12 Years a Slave,2013,8.1,738K
+
+184,Blade Runner,1982,8.1,818K
+
+185,Before Sunrise,1995,8.1,337K
+
+186,The Grand Budapest Hotel,2014,8.1,881K
+
+187,Ben-Hur,1959,8.1,252K
+
+188,Barry Lyndon,1975,8.1,182K
+
+189,Gone Girl,2014,8.1,1.1M
+
+190,The Gold Rush,1925,8.1,118K
+
+191,Hacksaw Ridge,2016,8.1,588K
+
+192,In the Name of the Father,1993,8.1,186K
+
+193,Memories of Murder,2003,8.1,214K
+
+194,Dead Poets Society,1989,8.1,541K
+
+195,On the Waterfront,1954,8.1,164K
+
+196,The General,1926,8.1,98K
+
+197,The Deer Hunter,1978,8.1,360K
+
+198,Wild Tales,2014,8.1,215K
+
+199,Mad Max: Fury Road,2015,8.1,1.1M
+
+200,Sherlock Jr.,1924,8.2,56K
+
+201,"Monsters, Inc.",2001,8.1,973K
+
+202,The Third Man,1949,8.1,181K
+
+203,Wild Strawberries,1957,8.1,114K
+
+204,The Wages of Fear,1953,8.2,66K
+
+205,Jaws,1975,8.1,656K
+
+206,How to Train Your Dragon,2010,8.1,795K
+
+207,Mary and Max,2009,8.1,186K
+
+208,Mr,1939,8.1,121K
+
+209,Ford v Ferrari,2019,8.1,460K
+
+210,Ratatouille,2007,8.1,817K
+
+211,The Seventh Seal,1957,8.1,197K
+
+212,Tokyo Story,1953,8.1,68K
+
+213,Room,2015,8.1,448K
+
+214,The Big Lebowski,1998,8.1,856K
+
+215,Poor Things,2023,8.1,158K
+
+216,Rocky,1976,8.1,625K
+
+217,Logan,2017,8.1,825K
+
+218,Spotlight,2015,8.1,500K
+
+219,Hotel Rwanda,2004,8.1,371K
+
+220,Platoon,1986,8.1,437K
+
+221,The Terminator,1984,8.1,919K
+
+222,The Passion of Joan of Arc,1928,8.1,60K
+
+223,Before Sunset,2004,8.1,286K
+
+224,The Best Years of Our Lives,1946,8.1,70K
+
+225,La haine,1995,8.1,194K
+
+226,Jai Bhim,2021,8.7,216K
+
+227,The Exorcist,1973,8.1,452K
+
+228,Rush,2013,8.1,510K
+
+229,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,1.2M
+
+230,Network,1976,8.1,170K
+
+231,Stand by Me,1986,8.1,439K
+
+232,The Wizard of Oz,1939,8.1,426K
+
+233,The Incredibles,2004,8.0,803K
+
+234,Hachi: A Dog's Tale,2009,8.1,309K
+
+235,Into the Wild,2007,8.1,655K
+
+236,My Father and My Son,2005,8.2,92K
+
+237,The Handmaiden,2016,8.1,171K
+
+238,To Be or Not to Be,1942,8.1,43K
+
+239,The Sound of Music,1965,8.1,259K
+
+240,The Grapes of Wrath,1940,8.1,99K
+
+241,The Battle of Algiers,1966,8.1,65K
+
+242,Groundhog Day,1993,8.0,681K
+
+243,Amores Perros,2000,8.1,252K
+
+244,Rebecca,1940,8.1,146K
+
+245,Cool Hand Luke,1967,8.1,188K
+
+246,The Iron Giant,1999,8.1,225K
+
+247,The Help,2011,8.1,490K
+
+248,It Happened One Night,1934,8.1,112K
+
+249,The 400 Blows,1959,8.1,127K
+
+250,Dances with Wolves,1990,8.0,289K
+
