@@ -1,3 +1,20 @@
-- Acquired proficiency in web scraping using Python libraries like BeautifulSoup and requests and learned how to extract data from HTML web pages efficiently.
-- Implemented error-handling strategies(handling HTTP errors, e.g. 403 forbidden) to ensure the scraping process runs smoothly and handles any website-related issues.
-- Handled the HTTP error (403 forbidden error) by setting a custom User-Agent header in the request sent to the website. This header makes the request appear as if it's coming from a regular browser rather than a scraper, reducing the likelihood of being blocked by the website. By including this header in my request, I am less likely to encounter HTTP errors related to forbidden access or being recognized as a scraper. This approach is a common strategy to handle HTTP errors in web scraping projects.
+# IMDb Web Scraper
+
+## Overview
+
+This project is an IMDb web scraper designed to extract and save data from the IMDb Top 250 movies list. The scraper collects information such as movie rank, title, release year, IMDb rating, and the number of ratings, storing this data in a CSV file. This project is an example of using Python for web scraping and data extraction, with potential applications in data analysis, content aggregation, and more.
+
+## Features
+
+- **Data Extraction**: Scrapes the IMDb Top 250 movies list for key movie details.
+- **CSV Output**: Saves the extracted data to a CSV file for easy access and analysis.
+- **Python-Powered**: Built with Python using `requests` and `BeautifulSoup` for web scraping.
+
+## Prerequisites
+
+Ensure you have Python installed on your machine. You can download it from [Python's official website](https://www.python.org/downloads/).
+
+Install the necessary Python packages by running:
+
+```bash
+pip install -r requirements.txt
